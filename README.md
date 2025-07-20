@@ -1,15 +1,75 @@
-## Hi there 👋
+# Hello World. 🌍
 
-**RahulRajeevan-4/RahulRajeevan-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's *my journal*. 
 
-Here are some ideas to get you started:
+I went to [**Punjab**][1]. It was a ***good trip***. It's ~~bad~~.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Month 1
+## May 6th 😎
+https://github.com/
+
+[Maldives](https://www.bbc.com/news/world-south-asia-12651486 "Link to Maldives")
+
+![Image](https://picsum.photos/200/300)
+
+<!-- -,+,* can also be used-->
+
+- Item1
+- Item2
+- Item3
+
+---
+
+1. Item1
+2. Item2
+3. Item3
+
+---
+<!-- OR -->
+1. Item1
+1. Item2
+1. Item3
+
+
+```js
+    console.log("Hi");
+```
+
+```py
+    print("Hi")
+```
+
+![Image2](./image.png)
+
+I studied `x=10` as a variable
+
+## Table
+|Index of my value|Value of the Column|
+|--|--|
+|1|Hello|
+|2|Point|
+|3|Lol|
+
+|Index of my value|Value of the Column|
+|--:|--:|
+|1|Hello|
+|2|Point|
+|3|Lol|
+
+|Index of my value|Value of the Column|
+|:--:|:--:|
+|1|Hello|
+|2|Point|
+|3|Lol|
+
+<br/><br/><br/>
+- [ ] Task not done
+- [x] Task completed
+
+
+
+
+
+<!-- Link References -->
+[1]: https://www.bbc.com/news/world-south-asia-12651486
 
