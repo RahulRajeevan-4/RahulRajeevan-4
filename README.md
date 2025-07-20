@@ -39,8 +39,7 @@ https://github.com/
     print("Hi")
 ```
 
-![Image2](<img width="536" height="354" alt="image" src="https://github.com/user-attachments/assets/0357e53a-69a1-4ffd-b3fc-a7b07d0e5d43" />
-)
+<img width="536" height="354" alt="image" src="https://github.com/user-attachments/assets/0357e53a-69a1-4ffd-b3fc-a7b07d0e5d43" />
 
 I studied `x=10` as a variable
 
